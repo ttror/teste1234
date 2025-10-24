@@ -1,0 +1,195 @@
+{
+  "patients": [
+    {
+      "cpf": "12345678900",
+      "name": "Maria Silva",
+      "diagnosis": "Transtorno de Ansiedade Generalizada (TAG)",
+      "currentStatus": "Evolução positiva com redução significativa dos sintomas ansiosos. Paciente demonstra maior controle emocional e aplicação das técnicas de respiração diafragmática.",
+      "history": [
+        {
+          "date": "2025-10-01T10:00:00.000Z",
+          "description": "Primeira consulta. Paciente relata ansiedade constante, preocupações excessivas sobre trabalho e família. Dificuldade para dormir. Iniciado protocolo de TCC.",
+          "timestamp": 1727776800000
+        },
+        {
+          "date": "2025-10-08T10:00:00.000Z",
+          "description": "Segunda sessão. Paciente praticou exercícios de respiração diariamente. Relata leve melhora na qualidade do sono. Trabalhado reestruturação cognitiva.",
+          "timestamp": 1728381600000
+        },
+        {
+          "date": "2025-10-15T10:00:00.000Z",
+          "description": "Terceira sessão. Melhora significativa. Paciente conseguiu identificar pensamentos automáticos negativos e aplicar técnicas de questionamento socrático.",
+          "timestamp": 1728986400000
+        },
+        {
+          "date": "2025-10-22T10:00:00.000Z",
+          "description": "Quarta sessão. Paciente relata redução de 60% nos episódios de ansiedade. Dormindo melhor. Continua praticando mindfulness diariamente.",
+          "timestamp": 1729591200000
+        }
+      ],
+      "createdAt": "2025-10-01T10:00:00.000Z",
+      "updatedAt": "2025-10-22T10:00:00.000Z"
+    },
+    {
+      "cpf": "23456789011",
+      "name": "João Santos",
+      "diagnosis": "Episódio Depressivo Moderado",
+      "currentStatus": "Resposta positiva à terapia cognitivo-comportamental. Paciente apresenta melhora no humor, retomada de atividades prazerosas e aumento da energia.",
+      "history": [
+        {
+          "date": "2025-09-15T14:00:00.000Z",
+          "description": "Avaliação inicial. Paciente apresenta humor deprimido há 3 meses, anedonia, fadiga constante, isolamento social. Iniciado TCC focada em ativação comportamental.",
+          "timestamp": 1726408800000
+        },
+        {
+          "date": "2025-09-22T14:00:00.000Z",
+          "description": "Segunda sessão. Paciente conseguiu realizar 2 atividades prazerosas na semana. Relata pequena melhora no humor. Trabalhado agenda de atividades.",
+          "timestamp": 1727013600000
+        },
+        {
+          "date": "2025-09-29T14:00:00.000Z",
+          "description": "Terceira sessão. Aumento gradual de energia. Paciente retomou caminhadas matinais. Identificação de pensamentos depressogênicos e reestruturação cognitiva.",
+          "timestamp": 1727618400000
+        },
+        {
+          "date": "2025-10-06T14:00:00.000Z",
+          "description": "Quarta sessão. Melhora consistente. Paciente voltou a encontrar amigos. Humor mais estável. Continua com agenda de atividades e registro de pensamentos.",
+          "timestamp": 1728223200000
+        },
+        {
+          "date": "2025-10-20T14:00:00.000Z",
+          "description": "Quinta sessão. Evolução significativa. Paciente relata sentir-se 'mais vivo'. Retomou hobbies antigos. Trabalhado prevenção de recaídas.",
+          "timestamp": 1729432800000
+        }
+      ],
+      "createdAt": "2025-09-15T14:00:00.000Z",
+      "updatedAt": "2025-10-20T14:00:00.000Z"
+    },
+    {
+      "cpf": "34567890122",
+      "name": "Ana Costa",
+      "diagnosis": "Síndrome do Pânico",
+      "currentStatus": "Redução expressiva na frequência e intensidade das crises de pânico. Paciente desenvolveu repertório de estratégias de enfrentamento e maior sensação de controle.",
+      "history": [
+        {
+          "date": "2025-07-10T09:00:00.000Z",
+          "description": "Primeira consulta emergencial. Paciente teve 3 crises de pânico na última semana. Medo intenso de morrer, taquicardia, sudorese. Iniciado protocolo de exposição gradual.",
+          "timestamp": 1720598400000
+        },
+        {
+          "date": "2025-07-17T09:00:00.000Z",
+          "description": "Segunda sessão. Psicoeducação sobre pânico. Paciente compreendeu o ciclo do pânico. Iniciadas técnicas de respiração e relaxamento muscular progressivo.",
+          "timestamp": 1721203200000
+        },
+        {
+          "date": "2025-07-31T09:00:00.000Z",
+          "description": "Terceira sessão. Paciente teve apenas 1 crise na semana, com menor intensidade. Conseguiu aplicar técnicas de respiração durante crise.",
+          "timestamp": 1722412800000
+        },
+        {
+          "date": "2025-08-14T09:00:00.000Z",
+          "description": "Quarta sessão. Sem crises nas últimas 2 semanas. Iniciada exposição gradual a situações evitadas (shopping, elevador). Paciente se sente mais confiante.",
+          "timestamp": 1723622400000
+        },
+        {
+          "date": "2025-09-11T09:00:00.000Z",
+          "description": "Quinta sessão. Paciente conseguiu ir ao shopping sozinha sem crise. Relata redução de 80% na ansiedade antecipatória. Continua com exposições graduais.",
+          "timestamp": 1726041600000
+        },
+        {
+          "date": "2025-10-16T09:00:00.000Z",
+          "description": "Sexta sessão. Evolução excelente. Sem crises há 1 mês. Paciente retomou atividades normais. Trabalhado manutenção dos ganhos terapêuticos.",
+          "timestamp": 1729065600000
+        }
+      ],
+      "createdAt": "2025-07-10T09:00:00.000Z",
+      "updatedAt": "2025-10-16T09:00:00.000Z"
+    },
+    {
+      "cpf": "45678901233",
+      "name": "Carlos Oliveira",
+      "diagnosis": "Transtorno Obsessivo-Compulsivo (TOC)",
+      "currentStatus": "Controle parcial dos rituais compulsivos. Paciente consegue adiar e reduzir compulsões de verificação. Melhora na qualidade de vida e funcionalidade.",
+      "history": [
+        {
+          "date": "2025-08-05T16:00:00.000Z",
+          "description": "Avaliação inicial. Paciente apresenta obsessões de contaminação e rituais de limpeza excessivos (4-5h/dia). Verificações constantes de portas e janelas. Iniciado TCC com EPR.",
+          "timestamp": 1722873600000
+        },
+        {
+          "date": "2025-08-12T16:00:00.000Z",
+          "description": "Segunda sessão. Psicoeducação sobre TOC. Hierarquia de exposição construída. Paciente compreendeu o ciclo obsessão-compulsão-alívio temporário.",
+          "timestamp": 1723478400000
+        },
+        {
+          "date": "2025-08-26T16:00:00.000Z",
+          "description": "Terceira sessão. Iniciadas exposições com prevenção de resposta. Paciente conseguiu tocar maçaneta e adiar lavagem das mãos por 30 minutos. Ansiedade alta mas manejável.",
+          "timestamp": 1724688000000
+        },
+        {
+          "date": "2025-09-09T16:00:00.000Z",
+          "description": "Quarta sessão. Progresso gradual. Tempo de rituais reduzido para 2-3h/dia. Paciente consegue adiar compulsões por períodos maiores. Trabalhado exposições mais desafiadoras.",
+          "timestamp": 1725897600000
+        },
+        {
+          "date": "2025-09-30T16:00:00.000Z",
+          "description": "Quinta sessão. Melhora significativa. Rituais reduzidos para 1h/dia. Paciente relata maior sensação de controle. Continua com exposições diárias.",
+          "timestamp": 1727712000000
+        },
+        {
+          "date": "2025-10-21T16:00:00.000Z",
+          "description": "Sexta sessão. Evolução consistente. Paciente consegue resistir a algumas compulsões completamente. Funcionalidade melhorada. Trabalhado prevenção de recaídas.",
+          "timestamp": 1729526400000
+        }
+      ],
+      "createdAt": "2025-08-05T16:00:00.000Z",
+      "updatedAt": "2025-10-21T16:00:00.000Z"
+    },
+    {
+      "cpf": "56789012344",
+      "name": "Beatriz Lima",
+      "diagnosis": "Transtorno de Estresse Pós-Traumático (TEPT)",
+      "currentStatus": "Processamento gradual do trauma com EMDR. Redução de flashbacks e pesadelos. Paciente demonstra maior capacidade de regulação emocional e ressignificação do evento traumático.",
+      "history": [
+        {
+          "date": "2025-06-20T11:00:00.000Z",
+          "description": "Primeira consulta. Paciente vítima de assalto há 6 meses. Apresenta flashbacks diários, pesadelos recorrentes, hipervigilância, evitação de locais públicos. Iniciado protocolo EMDR.",
+          "timestamp": 1718881200000
+        },
+        {
+          "date": "2025-06-27T11:00:00.000Z",
+          "description": "Segunda sessão. Fase de preparação EMDR. Trabalhado lugar seguro e recursos internos. Paciente desenvolveu estratégias de ancoragem para momentos de desregulação.",
+          "timestamp": 1719486000000
+        },
+        {
+          "date": "2025-07-11T11:00:00.000Z",
+          "description": "Terceira sessão. Primeira sessão de processamento EMDR. Trabalhada cena mais perturbadora do trauma. Paciente conseguiu processar com SUD de 10 para 6.",
+          "timestamp": 1720695600000
+        },
+        {
+          "date": "2025-07-25T11:00:00.000Z",
+          "description": "Quarta sessão. Continuação do processamento. SUD reduzido para 3. Paciente relata diminuição de flashbacks. Pesadelos ainda presentes mas menos intensos.",
+          "timestamp": 1721905200000
+        },
+        {
+          "date": "2025-08-15T11:00:00.000Z",
+          "description": "Quinta sessão. Processamento de memórias associadas. Paciente conseguiu ressignificar o evento. SUD em 1. Relata sentir-se mais segura e no controle.",
+          "timestamp": 1723719600000
+        },
+        {
+          "date": "2025-09-05T11:00:00.000Z",
+          "description": "Sexta sessão. Instalação de cognição positiva. Paciente voltou a frequentar locais antes evitados. Flashbacks raros. Pesadelos ocasionais.",
+          "timestamp": 1725534000000
+        },
+        {
+          "date": "2025-10-10T11:00:00.000Z",
+          "description": "Sétima sessão. Evolução excelente. Paciente retomou vida normal. Sintomas de TEPT significativamente reduzidos. Trabalhado fortalecimento de recursos e fechamento.",
+          "timestamp": 1728558000000
+        }
+      ],
+      "createdAt": "2025-06-20T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    }
+  ]
+}
+
